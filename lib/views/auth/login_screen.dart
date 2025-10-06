@@ -108,7 +108,7 @@ class _LoginScreenState extends State<LoginScreen>
 
                       // Welcome Text
                       Text(
-                        'Welcome Back',
+                        'Welcome to Unity',
                         style: TextStyle(
                           fontSize: 32,
                           fontWeight: FontWeight.bold,
